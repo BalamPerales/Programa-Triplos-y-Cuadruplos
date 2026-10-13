@@ -1,0 +1,73 @@
+body {
+    background-color: #f6aea2 ; 
+}
+
+.card {
+    border-radius: 20px;
+    border: 2px solid #fde2e4;
+    box-shadow: 0 8px 24px rgba(253, 226, 228, 0.4) !important;
+}
+
+.card-header {
+    background-color: #c5dedd !important; 
+    color: #5c6b73 !important; 
+    border-bottom: none;
+    border-radius: 18px 18px 0 0 !important;
+}
+
+/* Input y Controles */
+.input-group-text {
+    background-color: #fde2e4; 
+    border-color: #fde2e4;
+    color: #5c6b73;
+    font-weight: 600;
+}
+
+.form-control {
+    border-color: #fde2e4;
+}
+
+.form-control:focus {
+    border-color: #b5e2fa;
+    box-shadow: 0 0 0 0.25rem rgba(181, 226, 250, 0.5);
+}
+
+.btn-primary {
+    background-color: #b5e2fa !important; 
+    border-color: #b5e2fa !important;
+    color: #5c6b73 !important;
+    font-weight: 600;
+}
+
+.btn-primary:hover {
+    background-color: #9bcdef !important;
+}
+
+.btn-danger {
+    background-color: #ffdac1 !important; 
+    border-color: #ffdac1 !important;
+    color: #5c6b73 !important;
+    font-weight: 600;
+}
+
+.btn-danger:hover {
+    background-color: #fec8a7 !important;
+}
+
+.table-dark {
+    background-color: #e2ece9 !important;
+    color: #5c6b73 !important;
+}
+
+.badge.bg-primary {
+    background-color: #b5e2fa !important;
+    color: #5c6b73 !important;
+}
+
+.badge.bg-success {
+    background-color: #c1e1c1 !important; 
+    color: #5c6b73 !important;
+}
+
+.text-primary { color: #8bb7d6 !important; }
+.text-success { color: #92bca6 !important; }
